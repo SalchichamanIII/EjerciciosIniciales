@@ -2,7 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Ejercicio1_1 : MonoBehaviour
+public class Apuntes : MonoBehaviour
+    //Ctrl + r r  rename 
 {
     //Ctrl + k  Ctrl + C Comentar
     //Ctrl + k  Ctrl + U Descomentar
