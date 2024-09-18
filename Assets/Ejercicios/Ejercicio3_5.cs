@@ -2,14 +2,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Ejercicio3_4 : MonoBehaviour
+public class Ejercicio3_5 : MonoBehaviour
 {
-    [SerializeField] float exp;
+    [SerializeField] float radio;
     // Start is called before the first frame update
     void Start()
     {
-        float lvl = 32 + (9 * exp / 5);
-        Debug.Log( " Tu nivel es :" + lvl);
+        
     }
 
     // Update is called once per frame
